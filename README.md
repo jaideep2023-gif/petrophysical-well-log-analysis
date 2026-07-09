@@ -1,4 +1,4 @@
-# Petrophysical Well Log Analysis for Resorvoir Characterization
+# Academic Case Study: Petrophysical Well Log Analysis for Reservoir Characterization
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-orange)
@@ -36,6 +36,16 @@ This project presents a comprehensive petrophysical aalysis of well log data fro
   6. Compute acoustic impedence and velocity.
   7. Generate synthetic seismic response.
   8. Interpret reservoir properties.
+
+  ## About
+
+  This repository docuents a team-based academic case study on petrophysical well log analysis. The work focuses on processing and interpreting well log data using Python for reservoir characteristics.
+
+My contribution included:
+- Refining and debugging the analysis workflow.
+- Data preprocessing and visualisation.
+- Interpretation of well log outputs.
+- Improving project documentationand presentation.
  
 ## Repository Structure
 
