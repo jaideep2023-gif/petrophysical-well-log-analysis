@@ -11,4 +11,14 @@ This project presents a comprehensive petrophysical aalysis of well log data fro
 - Compute acoustic impedence and velocity profiles.
 - Generate syntetic seismic response for reservoir interpretation.
 - Characterize the Brewster Member reservoir using well log data.
+
+## Technologies Used
+
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Seaborn**
+- **Lasio**
+- **Google Colab**
   
