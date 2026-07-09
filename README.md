@@ -5,11 +5,11 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)
 
 ## Overview
-This project presents a comprehensive petrophysical aalysis of well log data from the Ichthys Field using python. The workflow includes data preprocessing, well log visualization, porosity estimation, pickett plot analysis, acoustic impedence calculation, velocity analysis, and synthetic seismis generation to characterize the reservoir and evaluation formation properties.
+This repository documents a team-based academic case study focused on petrophysical well log analysis for reservoir characterization. Using Python, LAS well log data from the Ichthys Field was processed to generate Triple Combo logs, estimate porosity, perform Pickett Plot analysis, compute acoustic impedance, analyze velocity profiles, and generate synthetic seismic responses for reservoir evaluation.
 
 ## Objectives
 - Perform petrophysical analysis using well log (LAS) data.
-- Visualisation subsurface formations using Triple Combo logs.
+- Visualize subsurface formations using Triple Combo logs.
 - Estimate formation porosity using density and neutron logs.
 - Perform Pickett Plot analysis for reservoir evaluation.
 - Compute acoustic impedence and velocity profiles.
@@ -41,7 +41,7 @@ This project presents a comprehensive petrophysical aalysis of well log data fro
 
 This repository docuents a team-based academic case study on petrophysical well log analysis. The work focuses on processing and interpreting well log data using Python for reservoir characteristics.
 
-My contribution included:
+My contributions included:
 - Refining and debugging the analysis workflow.
 - Data preprocessing and visualisation.
 - Interpretation of well log outputs.
@@ -77,9 +77,24 @@ The analysis successfully generated:
 - Synthetic seismic response.
 - Reservoir characterisation of the Brewster Member.
 
+## Triple Combo Log
+
+Shows lithology variation and reservoir intervals.
+
+![Triple Combo](plots/triple_combo_log.png)
+
+## Pickett Plot
+
+Used to estimate water saturation.
+
+![Pickett Plot](plots/pickett_plot.png)
 
 
+## Porosity Logs
 
+Shows density porosity, neutron porosity, and total porosity plot.
+
+![Porosity](plots/porosity_logs.png)
 
 
 
