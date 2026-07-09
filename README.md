@@ -21,4 +21,19 @@ This project presents a comprehensive petrophysical aalysis of well log data fro
 - **Seaborn**
 - **Lasio**
 - **Google Colab**
-  
+
+  ## Project Workflow
+
+  1. Import LAS well log data.
+  2. Clean and prprocess the data.
+  3. Generate Triple Combo logs.
+  4. Calculate porosity from density and neutron logs.
+  5. Perform Pickett plot analysis.
+  6. Compute acoustic impedence and velocity.
+  7. Generate synthetic seismic response.
+  8. Interpret reservoir properties.
+ 
+
+
+
+
