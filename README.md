@@ -39,12 +39,12 @@ This project presents a comprehensive petrophysical aalysis of well log data fro
 petrophysical-well-log-analysis
 │
 ├── plots/
-│   ├── Triple Combo Log.png
-│   ├── Porosity Logs.png
-│   ├── Pickett Plot.png
-│   ├── Impedance Plot.png
-│   ├── Velocity Plots.png
-│   └── Seismic Plots.png
+│   ├── triple_combo_log.png
+│   ├── porosity_logs.png
+│   ├── pickett_plot.png
+│   ├── impedance_plot.png
+│   ├── velocity_plots.png
+│   └── seismic_plots.png
 │
 ├── well_log_project.ipynb
 ├── ichthys_deep_1_welldata.las
