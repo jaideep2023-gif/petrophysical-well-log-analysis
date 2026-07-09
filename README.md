@@ -51,6 +51,27 @@ petrophysical-well-log-analysis
 └── README.md
 ```
 
+## Results
+
+The analysis successfully generated:
+
+- Triple Combo Log for lithology interpretation.
+- Porosity estimation using density and neutron logs.
+- Pickett Plot for reservoir evalution.
+- Acoustic impedence profile.
+- Velocity analysis.
+- Synthetic seismic response.
+- Reservoir characterisation of the Brewster Member.
+
+
+
+
+
+
+
+
+
+
 
 
 
