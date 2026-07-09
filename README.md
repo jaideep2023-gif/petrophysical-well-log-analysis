@@ -39,7 +39,7 @@ This project presents a comprehensive petrophysical aalysis of well log data fro
 
   ## About
 
-  This repository docuents a team-based academic case study on petrophysical well log analysis. The work focuses on processing and interpreting well log data using Python for reservoir characteristics.
+This repository docuents a team-based academic case study on petrophysical well log analysis. The work focuses on processing and interpreting well log data using Python for reservoir characteristics.
 
 My contribution included:
 - Refining and debugging the analysis workflow.
