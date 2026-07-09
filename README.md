@@ -81,7 +81,7 @@ The analysis successfully generated:
 
 Shows lithology variation and reservoir intervals.
 
-![Triple Combo](plots/triple_combo_log.png)
+![Triple Combo](plots/triple_combo_logs.png)
 
 ## Pickett Plot
 
