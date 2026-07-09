@@ -33,6 +33,24 @@ This project presents a comprehensive petrophysical aalysis of well log data fro
   7. Generate synthetic seismic response.
   8. Interpret reservoir properties.
  
+## Repository Structure
+
+```text
+petrophysical-well-log-analysis
+│
+├── plots/
+│   ├── Triple Combo Log.png
+│   ├── Porosity Logs.png
+│   ├── Pickett Plot.png
+│   ├── Impedance Plot.png
+│   ├── Velocity Plots.png
+│   └── Seismic Plots.png
+│
+├── well_log_project.ipynb
+├── ichthys_deep_1_welldata.las
+└── README.md
+```
+
 
 
 
